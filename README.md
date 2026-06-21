@@ -1,2 +1,14 @@
 # coreigame-journal
-HTML page archive and documentation
+
+公开页面文件归档
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
